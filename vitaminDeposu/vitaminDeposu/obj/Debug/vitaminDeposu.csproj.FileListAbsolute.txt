@@ -1,0 +1,10 @@
+C:\Users\aslih\source\repos\vitaminDeposu\vitaminDeposu\bin\Debug\vitaminDeposu.exe.config
+C:\Users\aslih\source\repos\vitaminDeposu\vitaminDeposu\bin\Debug\vitaminDeposu.exe
+C:\Users\aslih\source\repos\vitaminDeposu\vitaminDeposu\bin\Debug\vitaminDeposu.pdb
+C:\Users\aslih\source\repos\vitaminDeposu\vitaminDeposu\obj\Debug\vitaminDeposu.csprojAssemblyReference.cache
+C:\Users\aslih\source\repos\vitaminDeposu\vitaminDeposu\obj\Debug\vitaminDeposu.Form1.resources
+C:\Users\aslih\source\repos\vitaminDeposu\vitaminDeposu\obj\Debug\vitaminDeposu.Properties.Resources.resources
+C:\Users\aslih\source\repos\vitaminDeposu\vitaminDeposu\obj\Debug\vitaminDeposu.csproj.GenerateResource.cache
+C:\Users\aslih\source\repos\vitaminDeposu\vitaminDeposu\obj\Debug\vitaminDeposu.csproj.CoreCompileInputs.cache
+C:\Users\aslih\source\repos\vitaminDeposu\vitaminDeposu\obj\Debug\vitaminDeposu.exe
+C:\Users\aslih\source\repos\vitaminDeposu\vitaminDeposu\obj\Debug\vitaminDeposu.pdb
